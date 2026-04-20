@@ -1,0 +1,12 @@
+# Arduino IDE
+*.ino.precompiled
+*.ino.with_bootloader
+*.elf
+*.hex
+build*/
+work/
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
